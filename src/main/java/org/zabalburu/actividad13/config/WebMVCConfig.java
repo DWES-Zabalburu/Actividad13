@@ -14,7 +14,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan("org.zabalburu.productosMVC")
+@ComponentScan("org.zabalburu.actividad13")
 //@PropertySource("classpath:props/conexion.properties")
 public class WebMVCConfig implements WebMvcConfigurer {
 
